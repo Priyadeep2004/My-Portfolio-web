@@ -4,7 +4,8 @@
   "description": "Portfolio of Priyadeep Mitra",
   "main": "index.html",
   "scripts": {
-    "start": "serve ."
+    "start": "serve .",
+    "dev": "serve ."
   },
   "dependencies": {
     "serve": "^14.2.1"
